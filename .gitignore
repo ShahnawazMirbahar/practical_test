@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/src/pages/Members
+
 
 /.pnp
 .pnp.js
