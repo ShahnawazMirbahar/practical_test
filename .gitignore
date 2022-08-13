@@ -2,7 +2,9 @@
 
 # dependencies
 /node_modules
-/src/pages
+/src/pages/Dashboard
+/src/pages/Members
+/src/pages/Tasks
 /.pnp
 .pnp.js
 
