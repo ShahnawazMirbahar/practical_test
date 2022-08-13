@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /src/pages/Members
-/src/pages/Tasks
+
 /.pnp
 .pnp.js
 
