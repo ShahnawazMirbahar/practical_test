@@ -1,0 +1,17 @@
+export const WELCOME = `Welcome!`;
+export const LOGGED_IN = `Logged In!`;
+export const SUCCESS = "success";
+export const WRONG = "Worng Credentials!";
+export const TRY = "Please Try Again!";
+export const ERROR = "error";
+export const ERROR_INCIDENT = "Error!";
+export const ERROR_MESSAGE = "Some Error Happened!";
+export const SUCCESS_TASK = "Task Created Successfully!";
+export const SUCCESS_MEMBER = "Member Created Successfully!";
+export const UPDATE_TASK = "Task Updated Successfully!";
+export const UPDATE_MEMBER = "Member Updated Successfully!";
+export const DELETE_TASK = "Task Deleted Successfully!";
+export const DELETE_MEMBER = "Member Deleted Successfully!";
+export const CREATED = "Created";
+export const UPDATED = "Updated";
+export const DELETED = "Deleted";

@@ -1,0 +1,61 @@
+{
+  "login": [
+    {
+      "email": "admin",
+      "password": "123456"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Some task",
+      "description": "Update",
+      "assignedTo": "Shovon",
+      "createdAt": "13-7-2022",
+      "id": 4
+    },
+    {
+      "title": "Some title",
+      "description": "Some description",
+      "assignedTo": "Shovon",
+      "createdAt": "13-7-2022",
+      "id": 5
+    },
+    {
+      "title": "Shahnawaz Task",
+      "description": "Some task",
+      "assignedTo": "Shahnawaz",
+      "createdAt": "13-7-2022",
+      "id": 6
+    },
+    {
+      "title": "Some task",
+      "description": "Some description",
+      "assignedTo": "Shahnawaz",
+      "createdAt": "13-7-2022",
+      "id": 8
+    }
+  ],
+  "members": [
+    {
+      "name": "Shahnawaz",
+      "email": "Shahnawaz906@email.com",
+      "assignedTask": 3,
+      "createdAt": "13-7-2022",
+      "id": 2
+    },
+    {
+      "name": "MR A",
+      "email": "a@gmail.com",
+      "assignedTask": 0,
+      "createdAt": "13-7-2022",
+      "id": 4
+    },
+    {
+      "name": "MR B",
+      "email": "b@gmail.com",
+      "assignedTask": 0,
+      "createdAt": "13-7-2022",
+      "id": 5
+    }
+  ]
+}
